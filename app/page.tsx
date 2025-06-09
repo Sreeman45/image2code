@@ -154,8 +154,8 @@ export default function Home() {
 
         </div>
       </div>
-     <div className="bg-black text-white text-lg flex flex-col gap-1 pt-6 pb-3 items-center">
-      <p>contact:sreemanlingala333@gmail.com</p>
+     <div className="bg-black text-gray-300 font-[mono] flex flex-col gap-1 pt-10 pb-4 items-center">
+      <p>sreemanlingala333@gmail.com</p>
       <div>I build awesome AI apps💖</div>
      </div>
     </div>
